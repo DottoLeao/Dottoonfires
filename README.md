@@ -1,34 +1,42 @@
-# Olá, eu sou o Lorenzo 👋
+### Olá! 👋 Eu sou o Lorenzo Leão Dotto (DottoLeao)
 
-### 🚀 Sobre mim
-Eu sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em JavaScript, Node.js, Python e um pouco de C. Estudo programação há cerca de 8 meses e já desenvolvi alguns projetos utilizando tecnologias como Bootstrap e frameworks front-end.
+Desenvolvedor Full-Stack com experiência em Front-end, Back-end e Mobile.
 
-### 💼 Experiência Profissional
-Atualmente, trabalho na Minuano Bebidas distribuidora de bebidas da Heineken, onde nossa distribuidora alcançou a primeira posição em vários indicadores de desempenho. Este sucesso se deve ao nosso empenho e dedicação em oferecer o melhor serviço possível.
+---
 
-### 🛠️ Habilidades
-Linguagens: JavaScript, Node.js, Python, C  
-Front-end: HTML, CSS, Bootstrap  
-Ferramentas: Git, VS Code, NPM  
-Outros: Desenvolvimento de APIs, integração com serviços externos, automação de processos  
+#### 🛠️ Tecnologias & Ferramentas
 
-### 🌱 O que estou aprendendo
-Atualmente, estou focado em melhorar minhas habilidades em backend e frontend. Estou explorando novas tecnologias e frameworks para aprimorar minhas capacidades de desenvolvimento.
+Aqui estão algumas das tecnologias e ferramentas com as quais eu tenho experiência:
 
-### 📚 Educação
-Alura: Vários cursos de programação backend e frontend  
-Faculdade: Projeto acadêmico recente utilizando Bootstrap  
+-   **Linguagens:** Java, Python, JavaScript, Kotlin, C++
+-   **Front-end:** React, Next.js, HTML, CSS
+-   **Back-end:** FastAPI, Next, Pandas, Express 
+-   **Mobile:** Kotlin
+-   **Testes & Automação:** Selenium (Python), Puppeteer
 
-# 🌐 Como me encontrar
-🤓 [LinkedIn](https://www.linkedin.com/in/lorenzo-le%C3%A3o-dotto-a37348230/)  
-✖️ [Twitter](https://x.com/dotto_leao)  
-✉️ Email -> dottoleao@gmail.com  
+---
 
-### ⚡ Curiosidades
-Gosto de estudar novas tecnologias e tendências de mercado.  
-Jogo Overwatch nos meus momentos de lazer.  
-Estou sempre em busca de novos desafios e oportunidades de crescimento.  
-<!---
-Dottoonfires/Dottoonfires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🌱 Atualmente Aprendendo
+
+Framework Django
+
+---
+
+#### 🔭 Meus Projetos de Destaque
+
+Aqui estão alguns dos meus projetos que eu mais me orgulho de ter trabalhado:
+
+> 👷🚧 EM CONSTRUÇÃO 👷🚧
+
+---
+
+#### 🤝 Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-leão-dotto-a37348230/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DottoLeao)
+
+---
+
+<p align="center">
+"A conquista de chegar ao topo só é gratificante por causa do caminho árduo que antecede o fato" - Uma reflexão que me motiva na jornada do desenvolvimento.
+</p>
